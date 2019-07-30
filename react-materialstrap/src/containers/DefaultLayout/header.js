@@ -38,6 +38,9 @@ class Header extends Component {
           <NavItem className="px-3">
             <NavLink to="#" className="nav-link">Settings</NavLink>
           </NavItem>
+          <NavItem className="px-3">
+            <NavLink to="/blankPage" className="nav-link">Blank Page</NavLink>
+          </NavItem>
         </Nav>
         <Nav className="ml-auto" navbar>
           <NavItem className="d-md-down-none">

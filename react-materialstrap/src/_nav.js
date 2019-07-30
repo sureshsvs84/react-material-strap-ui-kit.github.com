@@ -244,6 +244,11 @@ export default {
           icon: 'icon-star',
         },
         {
+          name: 'Blank Page',
+          url: '/blankPage',
+          icon: 'icon-star',
+        },
+        {
           name: 'Error 404',
           url: '/404',
           icon: 'icon-star',
